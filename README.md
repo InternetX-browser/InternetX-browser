@@ -45,9 +45,9 @@ Execute with Git this command:
 
 ```git clone https://github.com/InternetX-browser/InternetX.com```
 
-## Our contributors ⭐
-
-![Account, first](https://avatars.githubusercontent.com/u/170886455?s=64&v=4)
+```
+Contributors text deleted by: "This tab is updating much".
+```
 
 </details>
 
