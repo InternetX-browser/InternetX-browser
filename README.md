@@ -70,6 +70,7 @@ Execute with Git this command:
 > [!NOTE]
 > The other information is solo for this repo.
 
+
 1. If you clone this repository, please read the rules:
 - 1. Don't publish your password, your name and other from the other repository
 - 2. With this repository you can make that you want, but you can't use the normal assets.
